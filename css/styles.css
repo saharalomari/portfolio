@@ -159,7 +159,7 @@ sup {
 }
 
 a {
-  color: #bd5d38;
+  color:rosybrown;
   text-decoration: none;
   background-color: transparent;
 }
@@ -6097,7 +6097,8 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: rosybrown !important;
+ 
+  background-image: linear-gradient(to bottom right,tan , rosybrown);
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -10100,7 +10101,7 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #bd5d38;
+  background-color: rosybrown;
 }
 
 .dev-icons {
